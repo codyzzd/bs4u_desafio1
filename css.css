@@ -5,4 +5,12 @@
 
 header {
   background-color: orange;
+  margin: 0px;
+  padding: 0px;
+}
+
+.rodape {
+  background-color: #454545;
+  color: white;
+  padding: 20px;
 }
