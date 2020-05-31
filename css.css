@@ -1,16 +1,27 @@
-/*div {
-  background-color: rgba(78, 58, 255, 0.3);
-}
-*/
-
-header {
+.orangebar {
   background-color: orange;
-  margin: 0px;
-  padding: 0px;
+  color: white;
 }
 
 .rodape {
   background-color: #454545;
   color: white;
   padding: 20px;
+}
+
+.logo {
+  font-size: 2rem;
+  color: White;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.submenup {
+  background-color: rgb(233, 233, 233);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.conteudo {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
